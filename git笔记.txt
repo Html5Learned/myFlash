@@ -1,0 +1,39 @@
+分支
+
+主分支： master
+dev
+zs
+回滚
+
+仓库
+
+
+linux 常用命令：
+
+1、进入目录 cd file/
+2、退出目录 cd ..       cd ../..
+3、 cd D: 回车  进入 D盘
+4、mkdir 1612
+5、ls 列出当前目录下的文件
+6、 ls -la
+7、clear 清屏
+8、pwd 查看当前所在的目录
+
+git 的操作
+
+1、初始化git仓库
+2、git add hello.txt 添加文件
+3、git status 查看状态
+4、git commit -m '注释' 提交
+
+5、配置
+$ git config --global user.name "Your Name"
+$ git config --global user.email "email@example.com"
+
+6、git add .  添加所有的新文件
+7、git rm file 删除文件      git commit -m 'delete'
+8、关联远程仓库  git remote add sae https://git.sinacloud.com/1612
+9、推动  git push sae master:1  -u
+10、解除关联 git remote remove sae
+11、记住用户名密码  git config --global credential.helper wincred
+12、删除版本  git push sae :2
