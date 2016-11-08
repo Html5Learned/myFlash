@@ -1,0 +1,208 @@
+html{background: #efefef;}
+/*头部样式*/
+.bee-store-wrapper .store-header{
+	width: 100%;
+	position: fixed;top: 0;
+	z-index: 6;
+	background: #ffd600;
+	height: 4.5rem;
+	display: flex;
+	justify-content: space-between;
+}
+.bee-store-wrapper .store-header .header-main{
+	margin: auto;
+}
+.bee-store-wrapper .store-header .header-main span{
+	font-size: 1.2rem;
+	font-weight: 700;
+}
+.bee-store-wrapper .store-header .header-main span:after{
+	content: '▼'; 
+	font-size: 1.2rem
+}
+.bee-store-wrapper .store-header .header-right{
+	margin-top: .5rem;
+}
+.bee-store-wrapper .store-header .header-right .header-icon{
+	background: url(../../images/001.png) no-repeat;
+	background-size: auto 2rem;
+	display: inline-block;
+	width: 3.2rem;
+	height: 4rem;
+	padding-top: 2.5rem;
+}
+
+.bee-store-wrapper .main{
+	margin-top: 4.5rem;
+	overflow: hidden;
+}
+.bee-store-wrapper .main .left{
+	width: 23.5%;
+	float: left;
+}
+.bee-store-wrapper .main .right{
+	float: right;
+	width: 76.5%;
+}
+.bee-store-wrapper .main .left .list{
+	overflow-y: auto;
+	height: 45rem;
+}
+.bee-store-wrapper .main .left .list li{
+	text-align: center;
+	background: #f8f8f8;
+	color: #6d6d6d;
+	font-size: 15px;
+	line-height: 4rem;
+	border-bottom: 1px solid #e0e0e0;
+}
+.bee-store-wrapper .main .left .list li:nth-of-type(2){
+	background:url(../../images/027.jpg) no-repeat right;
+	background-color: #f8f8f8;
+	background-size: auto 2.5rem;
+	background-position: 56px 0px;
+}
+.bee-store-wrapper .main .left .list li span{
+	float: left;
+	width: .5rem;
+	margin-top: .3rem;
+	height: 3.5rem;
+	background:#f8f8f8;
+}
+/*.left .list li:first-of-type span{
+	background:#ffd600;
+}*/
+.bee-store-wrapper .main .left .list li:hover span{
+	background:#ffd600;
+}
+
+.bee-store-wrapper .main .rightHead{
+	text-align: center;
+	background:rgba(255,255,255,095);
+	display: flex;
+	width: 76%;
+	position: fixed;top: 4.5rem;right: 0;
+}
+.bee-store-wrapper .main .rightHead span{
+	width: 1px;
+	display: block;
+    background: #ddd;
+    height: 2rem;
+    align-self: center;
+}
+.bee-store-wrapper .main .rightHead>div{
+	font-size: 17px;
+	flex: 1;
+	line-height: 4rem;
+	height: 4rem;
+	border-bottom: 1px solid #e0e0e0;
+}
+.bee-store-wrapper .main .rightHead .all:after{
+	background: url(../../images/053.png) no-repeat;
+	display: inline-block;
+    vertical-align: top;
+    width: 1.2rem;
+    height: 4rem;
+   	margin-top: 2rem;
+   	margin-left: .5rem;
+    content: '';
+    background-size: 1rem;
+}
+.bee-store-wrapper .main .rightHead .sort:after{
+	background: url(../../images/053.png) no-repeat;
+	display: inline-block;
+    vertical-align: top;
+    width: 1.2rem;
+    height: 4rem;
+   	margin-top: 2rem;
+   	margin-left: .5rem;
+    content: '';
+    background-size: 1rem;
+}
+.bee-store-wrapper .main .right .list1{
+	margin-top: 4rem;
+	overflow-y: auto;
+	height: 40.6rem;
+}
+/*拼接*/
+.bee-store-wrapper .main .right .list1 li{
+	border-bottom: 1px solid #e0e0e0;
+	overflow:hidden;
+	background: #fff;
+}
+.bee-store-wrapper .main .right .list1 li .list-word{
+	position: relative;
+	float: left;
+	width: 55%;
+}
+.bee-store-wrapper .main .right .list1 li .list-word>p:first-of-type{
+	font-size: 18px;
+	margin: .5rem;
+}
+.bee-store-wrapper .main .right .list1 li .list-word>span:first-of-type{
+	margin: .5rem;
+	color: red;
+    padding: .1rem .3rem;
+    border-radius: .3rem;
+    border: 2px solid red;
+}
+.bee-store-wrapper .main .right .list1 li .list-word>p:last-of-type{
+	margin: .5rem;
+	color: #999999;
+}
+.bee-store-wrapper .main .right .list1 li .list-word>span:nth-of-type(2){
+	margin: .5rem;
+	color: red;
+}
+.bee-store-wrapper .main .right .list1 li .list-word>span:last-of-type{
+	color: #999999;
+	text-decoration: line-through;
+}
+.bee-store-wrapper .main .right .list1 li{
+	position: relative;
+}
+.bee-store-wrapper .main .right .list1 li .list-word .store-icon{
+	display: inline-block;
+	width: 8rem;
+	height: 3rem;
+	position: absolute;
+	right: 0;
+	bottom: 0;
+}
+.bee-store-wrapper .main .right .list1 li .list-word .store-icon .list-icon{
+    background: url(../../images/050.png) no-repeat;
+    background-position: -28px 0px;
+    background-size: 200% 100%;
+    background-color: #ff7a4b;
+    border: 1px solid #9d9d9d;
+    border-radius: 50%;
+    width: 2.5rem;
+    height: 2.5rem;
+    position: absolute;
+    top: 5%;
+    right: 5%;
+    z-index: 5;
+}
+.bee-store-wrapper .main .right .list1 li .list-word .store-icon .list-icon1{
+    background: url(../../images/050.png) no-repeat;
+    background-position: 0px 0px;
+    background-size: 200% 100%;
+    background-color: #ff7a4b;
+    border: 1px solid #9d9d9d;
+    border-radius: 50%;
+    width: 2.5rem;
+    height: 2.5rem;
+    position: absolute;
+    top: 5%;
+    right: 65%;
+    z-index: 5;
+    display: none;
+}
+
+.bee-store-wrapper .main .right .list1 li .list-word .store-icon>span{
+	position: absolute;
+	left: 39px;
+	font-size: 2rem;
+	line-height: 2.5rem;
+	display: none;
+}

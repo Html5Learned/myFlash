@@ -1,0 +1,26 @@
+<!-- 疯狂秒杀 -->
+<script type="text/html" id="list">
+	<%for(var n =0;n<product.length;n++){%>
+		<div class="shop1">
+			<div>
+				<div class="img3" style="background: url(<%=product[n].img%>) no-repeat center;float: left;width: 45%;border-right: 3px solid #eee;height: 15rem;background-size: 15rem 15rem;"></div>
+				<div class="text">
+					<p class="text-name"><%=product[n].name%></p>
+					<p class="text-num"><%=product[n].specifics%></p>
+					<p class="text-price">¥<span class="text-price1"><%=product[n].price%></span><span class="text-price2">/ 原价:<%=product[n].market_price%>元</span></p>
+				</div>
+				<div class="num">
+					<!-- <%-product[n].btnText%> -->
+					<%:=product[n].btnText%>
+				</div>
+			</div>
+		</div>
+	<%}%>	
+</script>
+<!-- //默认HTML转义，如果变量未定义输出为空<%=title%>  
+	//不转义<%:=title%> 或 <%-title%>
+	//URL转义，UI变量使用在模板链接地址URL的参数中时需要转义<%:u=title%>
+	//UI变量使用在HTML页面标签onclick等事件函数参数中需要转义
+	//“<”转成“&lt;”、“>”转成“&gt;”、“&”转成“&amp;”、“'”转成“\&#39;”
+	//“"”转成“\&quot;”、“\”转成“\\”、“/”转成“\/”、\n转成“\n”、\r转成“\r” <%:v=title%>
+	//HTML转义（默认自动）<%=title%> 或 <%:h=title%> -->

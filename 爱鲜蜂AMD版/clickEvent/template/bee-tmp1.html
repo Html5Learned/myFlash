@@ -1,0 +1,197 @@
+<!-- 首页- 鲜蜂热卖 -->
+<script type="text/html" id="hot-list">
+	<%for(var n =0;n<data.length;n++){%>
+		<li>
+			<div class="shop1" style="background: url(<%=data[n].img%>) no-repeat center;background-size: contain;padding-bottom: 92%"></div>
+			<div class="shop1-1">
+				<p><%=data[n].name%></p>
+				<span class="">精选</span>
+				<span class=""><%=data[n].pm_desc%></span>
+				<p><%=data[n].specifics%></p>
+				<p><%=data[n].price%>&nbsp;<span>￥<%=data[n].market_price%></span><i class="sock-icon"></i></p>
+			</div>
+		</li>
+	<%}%>
+</script>
+<!-- <ul class="hot-list-ul">
+	<li>
+		<div class="shop1"></div>
+		<div class="shop1-1">
+			<p>音苏体有机酸奶酪</p>
+			<span class="">精选</span>
+			<span class="">买一赠一</span>
+			<p>140g</p>
+			<p>￥16.8&nbsp;<span>￥32</span><i class="sock-icon"></i></p>
+		</div>
+	</li>
+	<li>
+		<div class="shop1"></div>
+		<div class="shop1-1">
+			<p>音苏体有机酸奶酪</p>
+			<span class="">精选</span>
+			<span class="">买一赠一</span>
+			<p>240g</p>
+			<p>￥16.8&nbsp;<span>￥32</span><i class="sock-icon"></i></p>
+		</div>
+	</li>
+	<li>
+		<div class="shop1"></div>
+		<div class="shop1-1">
+			<p>音苏体有机酸奶酪</p>
+			<span class="">精选</span>
+			<span class="">买一赠一</span>
+			<p>240g</p>
+			<p>￥16.8&nbsp;<span>￥32</span><i class="sock-icon"></i></p>
+		</div>
+	</li>
+	<li>
+		<div class="shop1"></div>
+		<div class="shop1-1">
+			<p>音苏体有机酸奶酪</p>
+			<span class="">精选</span>
+			<span class="">买一赠一</span>
+			<p>240g</p>
+			<p>￥16.8&nbsp;<span>￥32</span><i class="sock-icon"></i></p>
+		</div>
+	</li>
+	<li>
+		<div class="shop1"></div>
+		<div class="shop1-1">
+			<p>音苏体有机酸奶酪</p>
+			<span class="">精选</span>
+			<span class="">买一赠一</span>
+			<p>140g</p>
+			<p>￥16.8&nbsp;<span>￥32</span><i class="sock-icon"></i></p>
+		</div>
+	</li>
+	<li>
+		<div class="shop1"></div>
+		<div class="shop1-1">
+			<p>音苏体有机酸奶酪</p>
+			<span class="">精选</span>
+			<span class="">买一赠一</span>
+			<p>240g</p>
+			<p>￥16.8&nbsp;<span>￥32</span><i class="sock-icon"></i></p>
+		</div>
+	</li>
+	<li>
+		<div class="shop1"></div>
+		<div class="shop1-1">
+			<p>音苏体有机酸奶酪</p>
+			<span class="">精选</span>
+			<span class="">买一赠一</span>
+			<p>240g</p>
+			<p>￥16.8&nbsp;<span>￥32</span><i class="sock-icon"></i></p>
+		</div>
+	</li>
+	<li>
+		<div class="shop1"></div>
+		<div class="shop1-1">
+			<p>音苏体有机酸奶酪</p>
+			<span class="">精选</span>
+			<span class="">买一赠一</span>
+			<p>240g</p>
+			<p>￥16.8&nbsp;<span>￥32</span><i class="sock-icon"></i></p>
+		</div>
+	</li>
+	<li>
+		<div class="shop1"></div>
+		<div class="shop1-1">
+			<p>音苏体有机酸奶酪</p>
+			<span class="">精选</span>
+			<span class="">买一赠一</span>
+			<p>240g</p>
+			<p>￥16.8&nbsp;<span>￥32</span><i class="sock-icon"></i></p>
+		</div>
+	</li>
+	<li>
+		<div class="shop1"></div>
+		<div class="shop1-1">
+			<p>音苏体有机酸奶酪</p>
+			<span class="">精选</span>
+			<span class="">买一赠一</span>
+			<p>240g</p>
+			<p>￥16.8&nbsp;<span>￥32</span><i class="sock-icon"></i></p>
+		</div>
+	</li>
+	<li>
+		<div class="shop1"></div>
+		<div class="shop1-1">
+			<p>音苏体有机酸奶酪</p>
+			<span class="">精选</span>
+			<span class="">买一赠一</span>
+			<p>140g</p>
+			<p>￥16.8&nbsp;<span>￥32</span><i class="sock-icon"></i></p>
+		</div>
+	</li>
+	<li>
+		<div class="shop1"></div>
+		<div class="shop1-1">
+			<p>音苏体有机酸奶酪</p>
+			<span class="">精选</span>
+			<span class="">买一赠一</span>
+			<p>240g</p>
+			<p>￥16.8&nbsp;<span>￥32</span><i class="sock-icon"></i></p>
+		</div>
+	</li>
+	<li>
+		<div class="shop1"></div>
+		<div class="shop1-1">
+			<p>音苏体有机酸奶酪</p>
+			<span class="">精选</span>
+			<span class="">买一赠一</span>
+			<p>240g</p>
+			<p>￥16.8&nbsp;<span>￥32</span><i class="sock-icon"></i></p>
+		</div>
+	</li>
+	<li>
+		<div class="shop1"></div>
+		<div class="shop1-1">
+			<p>音苏体有机酸奶酪</p>
+			<span class="">精选</span>
+			<span class="">买一赠一</span>
+			<p>240g</p>
+			<p>￥16.8&nbsp;<span>￥32</span><i class="sock-icon"></i></p>
+		</div>
+	</li>
+	<li>
+		<div class="shop1"></div>
+		<div class="shop1-1">
+			<p>音苏体有机酸奶酪</p>
+			<span class="">精选</span>
+			<span class="">买一赠一</span>
+			<p>140g</p>
+			<p>￥16.8&nbsp;<span>￥32</span><i class="sock-icon"></i></p>
+		</div>
+	</li>
+	<li>
+		<div class="shop1"></div>
+		<div class="shop1-1">
+			<p>音苏体有机酸奶酪</p>
+			<span class="">精选</span>
+			<span class="">买一赠一</span>
+			<p>240g</p>
+			<p>￥16.8&nbsp;<span>￥32</span><i class="sock-icon"></i></p>
+		</div>
+	</li>
+	<li>
+		<div class="shop1"></div>
+		<div class="shop1-1">
+			<p>音苏体有机酸奶酪</p>
+			<span class="">精选</span>
+			<span class="">买一赠一</span>
+			<p>240g</p>
+			<p>￥16.8&nbsp;<span>￥32</span><i class="sock-icon"></i></p>
+		</div>
+	</li>
+	<li>
+		<div class="shop1"></div>
+		<div class="shop1-1">
+			<p>音苏体有机酸奶酪</p>
+			<span class="">精选</span>
+			<span class="">买一赠一</span>
+			<p>240g</p>
+			<p>￥16.8&nbsp;<span>￥32</span><i class="sock-icon"></i></p>
+		</div>
+	</li>
+</ul> -->

@@ -1,0 +1,17 @@
+<!-- http://www.vrserver.applinzi.com/aixianfeng/apicategory.php?category=热销榜 -->
+<!-- 闪送超市-热销榜/天天特价/优选水果/牛奶面包 -->
+<script type="text/html" id="list">
+	<%for(var n =0;n<data.length;n++){%>
+		<li>
+			<div class="list-img" style="background: url(<%=data[n].img%>) no-repeat;background-size: auto 8rem;margin-left: 1rem;float: left;width: 8rem;height: 8rem;"></div>
+			<div class="list-word">
+				<p><%=data[n].name%></p>
+				<span>精选</span>
+				<p><%=data[n].specifics%></p>
+				<span>￥<%=data[n].price%></span>
+				<span>￥<%=data[n].market_price%></span>
+				<i class="list-icon"></i>
+			</div>
+		</li>
+	<%}%>	
+</script>

@@ -1,0 +1,258 @@
+{
+    "data": [
+        {
+            "name": "音苏提有机酸奶酪",
+            "specifics": "140g",
+            "market_price": "12",
+            "price": "7.9",
+            "pm_desc": "买一赠一",
+            "pm_info": "赠品有限，赠完为止",
+            "img": "http://img01.bqstatic.com/upload/goods/201/604/1610/20160416104145_631033.jpg@300w_300h_90Q"
+        },
+        {
+            "name": "福成原味酸牛奶",
+            "specifics": "240g",
+            "market_price": "12.9",
+            "price": "8.9",
+            "pm_desc": "买一赠一",
+            "pm_info": "赠品有限，赠完为止",
+            "img": "http://img01.bqstatic.com/upload/goods/000/001/2047/0000012047_20190.jpg@300w_300h_90Q"
+        },
+        {
+            "name": "爱鲜蜂·新疆红提",
+            "specifics": "400g/盒",
+            "market_price": "20",
+            "price": "16.2",
+            "pm_desc": "买一赠一",
+            "pm_info": "赠品有限，赠完为止",
+            "img": "http://img01.bqstatic.com/upload/goods/201/609/0816/20160908160157_572626.jpg@300w_300h_90Q"
+        },
+        {
+            "name": "康师傅蛋酥卷芝麻味",
+            "specifics": "108g",
+            "market_price": "12",
+            "price": "8.5",
+            "pm_desc": "买一赠一",
+            "pm_info": "赠品有限，赠完为止",
+            "img": "http://img01.bqstatic.com/upload/goods/201/601/1314/20160113144230_571018.jpg@300w_300h_90Q"
+        },
+        {
+            "name": "钙芝奶酪味高钙威化饼干",
+            "specifics": "58.5g",
+            "market_price": "13.9",
+            "price": "4.9",
+            "pm_desc": "买一赠一",
+            "pm_info": "赠品有限，赠完为止",
+            "img": "http://img01.bqstatic.com/upload/goods/201/604/2910/20160429101615_305866.jpg@300w_300h_90Q"
+        },
+        {
+            "name": "啪啪通原味虾片",
+            "specifics": "85g",
+            "market_price": "23.8",
+            "price": "16.8",
+            "pm_desc": "满赠",
+            "pm_info": "啪啪通买即赠20g奶酪味虾片1袋",
+            "img": "http://img01.bqstatic.com/upload/goods/201/605/2616/20160526165010_231974.jpg@300w_300h_90Q"
+        },
+        {
+            "name": "上好佳鲜虾片",
+            "specifics": "40g",
+            "market_price": "6",
+            "price": "3.8",
+            "pm_desc": "满赠",
+            "pm_info": "啪啪通买即赠20g奶酪味虾片1袋",
+            "img": "http://img01.bqstatic.com/upload/goods/201/604/2010/20160420101430_119933.jpg@300w_300h_90Q"
+        },
+        {
+            "name": "[次日达]阿根廷红虾",
+            "specifics": "2kg(10-20只/kg）",
+            "market_price": "188",
+            "price": "149",
+            "pm_desc": "",
+            "pm_info": "",
+            "img": "http://img01.bqstatic.com/upload/goods/201/609/1418/20160914184627_516417.jpg@300w_300h_90Q"
+        },
+        {
+            "name": "今时代八角杯复合果粒酸奶",
+            "specifics": "200g",
+            "market_price": "7.9",
+            "price": "5.5",
+            "pm_desc": "",
+            "pm_info": "",
+            "img": "http://img01.bqstatic.com/upload/goods/201/604/0710/20160407105433_856995.jpg@300w_300h_90Q"
+        },
+        {
+            "name": "伊利味可滋巧克力牛奶",
+            "specifics": "240ml",
+            "market_price": "5.5",
+            "price": "5",
+            "pm_desc": "",
+            "pm_info": "",
+            "img": "http://img01.bqstatic.com/upload/goods/201/604/1309/20160413093744_835684.jpg@300w_300h_90Q"
+        },
+        {
+            "name": "味全每日C橙汁",
+            "specifics": "300ml",
+            "market_price": "6.9",
+            "price": "6.5",
+            "pm_desc": "",
+            "pm_info": "",
+            "img": "http://img01.bqstatic.com/upload/goods/201/604/0711/20160407110221_611797.jpg@300w_300h_90Q"
+        },
+        {
+            "name": "雀巢丝滑拿铁咖啡",
+            "store_nums": "50",
+            "specifics": "268ml",
+            "market_price": "6",
+            "price": "5",
+            "pm_desc": "",
+            "pm_info": "",
+            "img": "http://img01.bqstatic.com/upload/goods/201/601/1118/20160111185413_188923.jpg@300w_300h_90Q"
+        },
+        {
+            "name": "[次日达]伊赛西冷牛排",
+            "specifics": "150g",
+            "market_price": "26.8",
+            "price": "26.8",
+            "pm_desc": "满赠肉饼",
+            "pm_info": "买即赠牛肉饼一份，赠完为止。赠品将在结算页面显示，如未显示表示已赠完。",
+            "img": "http://img01.bqstatic.com/upload/goods/201/605/3116/20160531163201_083763.jpg@300w_300h_90Q"
+        },
+        {
+            "name": "[次日达]蜂觅15度蜜梨9粒礼盒装",
+            "specifics": "350-400g／粒＊9粒",
+            "market_price": "90",
+            "price": "39.9",
+            "pm_desc": "买一赠一",
+            "pm_info": "赠品有限，赠完为止",
+            "img": "http://img01.bqstatic.com/upload/goods/000/009/0550/0000090550_88740.jpg@300w_300h_90Q"
+        },
+        {
+            "name": "音苏提有机酸奶酪",
+            "specifics": "140g",
+            "market_price": "12",
+            "price": "7.9",
+            "pm_desc": "买一赠一",
+            "pm_info": "赠品有限，赠完为止",
+            "img": "http://img01.bqstatic.com/upload/goods/201/604/1610/20160416104145_631033.jpg@300w_300h_90Q"
+        },
+        {
+            "name": "福成原味酸牛奶",
+            "specifics": "240g",
+            "market_price": "12.9",
+            "price": "8.9",
+            "pm_desc": "买一赠一",
+            "pm_info": "赠品有限，赠完为止",
+            "img": "http://img01.bqstatic.com/upload/goods/000/001/2047/0000012047_20190.jpg@300w_300h_90Q"
+        },
+        {
+            "name": "爱鲜蜂·新疆红提",
+            "specifics": "400g/盒",
+            "market_price": "20",
+            "price": "16.2",
+            "pm_desc": "买一赠一",
+            "pm_info": "赠品有限，赠完为止",
+            "img": "http://img01.bqstatic.com/upload/goods/201/609/0816/20160908160157_572626.jpg@300w_300h_90Q"
+        },
+        {
+            "name": "康师傅蛋酥卷芝麻味",
+            "specifics": "108g",
+            "market_price": "12",
+            "price": "8.5",
+            "pm_desc": "买一赠一",
+            "pm_info": "赠品有限，赠完为止",
+            "img": "http://img01.bqstatic.com/upload/goods/201/601/1314/20160113144230_571018.jpg@300w_300h_90Q"
+        },
+        {
+            "name": "钙芝奶酪味高钙威化饼干",
+            "specifics": "58.5g",
+            "market_price": "13.9",
+            "price": "4.9",
+            "pm_desc": "买一赠一",
+            "pm_info": "赠品有限，赠完为止",
+            "img": "http://img01.bqstatic.com/upload/goods/201/604/2910/20160429101615_305866.jpg@300w_300h_90Q"
+        },
+        {
+            "name": "啪啪通原味虾片",
+            "specifics": "85g",
+            "market_price": "23.8",
+            "price": "16.8",
+            "pm_desc": "满赠",
+            "pm_info": "啪啪通买即赠20g奶酪味虾片1袋",
+            "img": "http://img01.bqstatic.com/upload/goods/201/605/2616/20160526165010_231974.jpg@300w_300h_90Q"
+        },
+        {
+            "name": "上好佳鲜虾片",
+            "specifics": "40g",
+            "market_price": "6",
+            "price": "3.8",
+            "pm_desc": "满赠",
+            "pm_info": "啪啪通买即赠20g奶酪味虾片1袋",
+            "img": "http://img01.bqstatic.com/upload/goods/201/604/2010/20160420101430_119933.jpg@300w_300h_90Q"
+        },
+        {
+            "name": "[次日达]阿根廷红虾",
+            "specifics": "2kg(10-20只/kg）",
+            "market_price": "188",
+            "price": "149",
+            "pm_desc": "",
+            "pm_info": "",
+            "img": "http://img01.bqstatic.com/upload/goods/201/609/1418/20160914184627_516417.jpg@300w_300h_90Q"
+        },
+        {
+            "name": "今时代八角杯复合果粒酸奶",
+            "specifics": "200g",
+            "market_price": "7.9",
+            "price": "5.5",
+            "pm_desc": "",
+            "pm_info": "",
+            "img": "http://img01.bqstatic.com/upload/goods/201/604/0710/20160407105433_856995.jpg@300w_300h_90Q"
+        },
+        {
+            "name": "伊利味可滋巧克力牛奶",
+            "specifics": "240ml",
+            "market_price": "5.5",
+            "price": "5",
+            "pm_desc": "",
+            "pm_info": "",
+            "img": "http://img01.bqstatic.com/upload/goods/201/604/1309/20160413093744_835684.jpg@300w_300h_90Q"
+        },
+        {
+            "name": "味全每日C橙汁",
+            "specifics": "300ml",
+            "market_price": "6.9",
+            "price": "6.5",
+            "pm_desc": "",
+            "pm_info": "",
+            "img": "http://img01.bqstatic.com/upload/goods/201/604/0711/20160407110221_611797.jpg@300w_300h_90Q"
+        },
+        {
+            "name": "雀巢丝滑拿铁咖啡",
+            "store_nums": "50",
+            "specifics": "268ml",
+            "market_price": "6",
+            "price": "5",
+            "pm_desc": "",
+            "pm_info": "",
+            "img": "http://img01.bqstatic.com/upload/goods/201/601/1118/20160111185413_188923.jpg@300w_300h_90Q"
+        },
+        {
+            "name": "[次日达]伊赛西冷牛排",
+            "specifics": "150g",
+            "market_price": "26.8",
+            "price": "26.8",
+            "pm_desc": "满赠肉饼",
+            "pm_info": "买即赠牛肉饼一份，赠完为止。赠品将在结算页面显示，如未显示表示已赠完。",
+            "img": "http://img01.bqstatic.com/upload/goods/201/605/3116/20160531163201_083763.jpg@300w_300h_90Q"
+        },
+        {
+            "name": "[次日达]蜂觅15度蜜梨9粒礼盒装",
+            "specifics": "350-400g／粒＊9粒",
+            "market_price": "90",
+            "price": "39.9",
+            "pm_desc": "买一赠一",
+            "pm_info": "赠品有限，赠完为止",
+            "img": "http://img01.bqstatic.com/upload/goods/000/009/0550/0000090550_88740.jpg@300w_300h_90Q"
+        }
+    ]
+}

@@ -1,0 +1,18 @@
+<!-- 疯狂秒杀 -->
+<script type="text/html" id="list">
+	<%for(var n =0;n<product.length;n++){%>
+		<div class="shop1">
+			<div>
+				<div class="img3" style="background: url(<%=product[n].img%>) no-repeat center;float: left;width: 45%;border-right: 3px solid #eee;height: 15rem;background-size: 15rem 15rem;"></div>
+				<div class="text">
+					<p class="text-name"><%=product[n].name%></p>
+					<p class="text-num"><%=product[n].specifics%></p>
+					<p class="text-price">¥<span class="text-price1"><%=product[n].price%></span><span class="text-price2">/ 原价:<%=product[n].market_price%>元</span></p>
+				</div>
+				<div class="num">
+					<strong><%=product[n].price%>元<%=product[n].btnText%></strong>
+				</div>
+			</div>
+		</div>
+	<%}%>	
+</script>

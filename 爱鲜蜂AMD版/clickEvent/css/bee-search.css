@@ -1,0 +1,174 @@
+@charset"UTF-8";
+body{background: #efefef;}
+header{
+	height: 4.5rem;
+	line-height: 4.5rem;
+	text-align: center;
+	background: #f9fafd;
+	display: flex;
+	
+}
+header span:first-of-type{
+	flex: 1;
+}
+header span:nth-of-type(2){
+	margin-top: .9rem;
+	padding-left: 2.4rem;
+	background:url(../images/058.png) no-repeat left;
+	background-size: auto 1.4rem;
+	background-position: 10px 7px;
+	border: 1px solid #e0e0e0;
+	border-radius: .3rem;
+	font-size: 1.4rem;
+	height: 2.6rem;
+	line-height: 2.6rem;
+	flex: 4;
+}
+header span:last-of-type{ 
+	color: #777;
+	font-weight: 700;
+	font-size: 1.3rem;
+	flex: 1;
+}
+header span:nth-of-type(2) input{
+	float: right;
+	font-size: 1.4rem;
+	border: 1px solid #f9fafd;
+	/*将input的背景色设为透明的*/
+	/*transparent 透明的*/
+	background: transparent;
+	/*设置消除自动的边框*/
+	outline:none;
+	margin: .3rem 1.8rem 0rem 0rem; 
+}
+
+/*.main{
+	display: none;
+}*/
+.img1{
+	background: url(../images/057.png) no-repeat center;
+	background-size:auto 3rem;
+}
+
+.seek{
+	display: block;
+	font-size: 1.2rem;
+    color: #777;
+    padding-top: 2.5rem;
+    padding-left: 1.5rem;
+    padding-bottom: 3rem;
+}
+.seek span{
+	font-size: 1.2rem;
+    color: #888;
+}
+.seek span:last-of-type{
+	display: block;
+	margin-top: 3rem;
+}
+.seek ul{overflow:hidden;}
+.seek ul li{
+	float: left;
+    border: solid 1px #e4e4e4;
+    background-color: #FFF;
+    margin: .6rem 1rem .4rem 0;
+    padding: 1.1rem 1.5rem;
+    border-radius: 2.7rem;
+    color: #000;
+}
+.seek>div{
+	margin: 0 4.5rem;
+    text-align: center;
+    height: 4rem;
+    line-height: 4rem;
+    font-size: 1.4rem;
+    color: #aaa;
+    border: solid 1px #e0e0e0;
+    border-radius: .5rem;
+}
+
+.main1{
+	display: none;
+}
+
+.main1 .list{
+	flex-wrap: wrap;
+	display: flex;
+	/*flex: wrap;*/
+	justify-content: space-around;
+}
+.main1 .list li{
+	width: 45%;
+	margin: auto;
+	border-top: 15px solid #efefef;
+	/*border: 5px solid #efefef;*/
+	background: #fff;
+	/*padding-bottom: 10%;*/
+}
+.main1 .list .shop1{
+	background:url(../images/026.jpg) no-repeat center;
+	background-size: contain;
+	padding-bottom: 92%;
+}
+
+.main1 .list .shop1-1 p{
+	position: relative;
+	font-weight: bold;
+	font-size: 1.3rem;
+	margin-bottom: .5rem;
+}
+.main1 .list .shop1-1>span:first-of-type{
+	color: red;
+    padding: .1rem .3rem;
+    border-radius: .3rem;
+    border: 2px solid red;
+}
+.main1 .list .shop1-1>span:last-of-type{
+	color: #fff;
+    background: red;
+    padding: .1rem .3rem;
+    border-radius: .3rem;
+}
+.main1 .list .shop1-1>p:nth-of-type(2){
+	margin: .6rem 0;
+	color:#999999;
+}
+.main1 .list .shop1-1>p:last-of-type{
+	color: red;
+
+}
+.main1 .list .shop1-1>p:last-of-type span{
+	color: #999999;
+	text-decoration: line-through;
+}
+.main1 .list .sock-icon{
+	display: inline-block;
+	background: url(../images/050.png) no-repeat;
+	background-position: -22px 0px;
+    background-size: 200% 100%;
+    background-color: #ff7a4b;
+    border: 1px solid #9d9d9d;
+    border-radius: 50%;
+    width: 2rem;
+    height: 2rem;
+    position: absolute;
+    bottom: 0;
+    right: 2%;
+    z-index: 5;
+}
+
+
+footer{
+	background-color:#ffda1c;
+	background-image:url(../images/060.png);
+	position: fixed;
+    right: .6rem;
+    bottom: .7rem;
+    z-index: 6;
+    height: 6rem;
+    width: 6rem;
+    border: solid .3rem #fff;
+    border-radius: 50%;
+    background-size: 77%;
+    background-position:8px 8px;
+}

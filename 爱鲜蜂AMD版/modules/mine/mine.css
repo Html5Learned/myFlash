@@ -1,0 +1,189 @@
+/*我的*/
+html{background: #efefef;}
+.bee-mine-wrapper .header3{
+	position: fixed;top: 0;
+	width: 100%;
+	height: 13.5rem;
+	background: #ffd600;
+}
+.bee-mine-wrapper .header3 .header1{
+	width: 100%;
+	height: 10rem;
+}
+.bee-mine-wrapper .header3 .header1 .headerLeft{
+	/*display: inline-block;*/
+	float: left;
+	margin: 2rem 1.5rem 0 2rem;
+	width: 6rem;
+	background: url(../../images/023.png) no-repeat left;
+	background-size: contain;
+	padding-bottom: 20%;
+}
+.bee-mine-wrapper .header3 .header1 p:first-of-type{
+	padding-top: 2.6rem;
+	color: #fff;
+	font-size: 16px;
+	font-family: "微软雅黑";
+	font-weight: bold;
+}
+.bee-mine-wrapper .header3 .header1 p:last-of-type{
+	display: inline-block;
+	background: url(../../images/024.png) no-repeat center;
+	background-size: contain;
+	width: 8rem;
+	height: 4rem;
+	padding-left: 2.5rem;
+	line-height: 4rem;
+	color: #e64f1a;
+	padding-bottom: 4%;
+}
+.bee-mine-wrapper .header3 .header1 span{
+	float: right;
+	margin-right: 2rem;
+	display: inline-block;
+	background: url(../../images/036.png) no-repeat right;
+	background-size: contain;
+	width: 4%;
+	padding-bottom: 7%;
+}
+.bee-mine-wrapper .header3 .header2{
+	width: 100%;
+	height: 3.5rem;
+	line-height: 3.5rem;
+	background: rgba(243,200,0,1);
+	display: flex;
+	text-align: center;
+}
+.bee-mine-wrapper .header3 .header2>span{
+	width: 1px;
+	background: #fff;
+	height: 60%;
+	align-self: center;
+}
+.bee-mine-wrapper .header3 .header2 div{
+	flex: 1;
+}
+.bee-mine-wrapper .header3 .header2 .header2-1{
+	background:url(../../images/025.png) no-repeat left;
+	background-size: auto 2rem;
+	background-position: 35px 8px;
+}
+.bee-mine-wrapper .header3 .header2 .header2-1 span{
+	color: #fff;
+	font-size: 17px;
+	margin-left: 1.5rem;
+}
+
+
+.bee-mine-wrapper .header3 .header2 .header2-2{
+	background:url(../../images/026.png) no-repeat left;
+	background-size: auto 2rem;
+	background-position: 35px 8px;
+}
+
+.bee-mine-wrapper .header3 .header2 .header2-2 span{
+	color: #fff;
+	font-size: 17px;
+	margin-left: 1.5rem;
+}
+.bee-mine-wrapper .main .order{
+	padding-left: 2rem;
+	height: 5rem;
+	line-height: 5rem;
+	margin-top: 14.5rem;
+	background:#fff;
+	font-size: 18px;
+}
+.bee-mine-wrapper .main .order span{
+	margin-right: 1rem;
+	float: right;
+	color: #999999;
+	font-size: 17px;
+}
+.bee-mine-wrapper .main .nav ul{
+	margin-top:.2rem;
+	background: #fff;
+	padding-bottom: 5%;
+	display: flex;
+}
+.bee-mine-wrapper .main .nav ul li{
+	flex: 1;
+	text-align: center;
+	margin: auto;
+}
+.bee-mine-wrapper .main .nav ul li div{padding-bottom: 68%}
+/*.nav ul li p{}*/
+.bee-mine-wrapper .main .nav .nav1{
+	background: url(../../images/027.png) no-repeat center;
+	background-size: auto 2rem;
+}
+.bee-mine-wrapper .main .nav .nav2{
+	background: url(../../images/028.png) no-repeat center;
+	background-size: auto 2rem;
+}
+.bee-mine-wrapper .main .nav .nav3{
+	background: url(../../images/029.png) no-repeat center;
+	background-size: auto 2rem;
+}
+.bee-mine-wrapper .main .nav .nav4{
+	background: url(../../images/030.png) no-repeat center;
+	background-size: auto 2rem;
+}
+
+.bee-mine-wrapper .main .about ul{
+	margin-top:1.2rem;
+	background: #fff;
+	padding-bottom: 5%;
+	display: flex;
+}
+.bee-mine-wrapper .main .about ul li{
+	flex: 1;
+	text-align: center;
+	margin: auto;
+}
+.bee-mine-wrapper .main .about ul li div{padding-bottom: 90%}
+.bee-mine-wrapper .main .about .EC .nav5{
+	background: url(../../images/031.png) no-repeat center;
+	background-size: auto 3rem;
+}
+.bee-mine-wrapper .main .about .nav6{
+	background: url(../../images/032.png) no-repeat center;
+	background-size: auto 3rem;
+}
+.bee-mine-wrapper .main .about .nav7{
+	background: url(../../images/033.png) no-repeat center;
+	background-size: auto 3rem;
+}
+.bee-mine-wrapper .main .about .nav8{
+	background: url(../../images/034.png) no-repeat center;
+	background-size: auto 3rem;
+}
+.bee-mine-wrapper .main .about1 ul{
+	margin-top:.2rem;
+	background: #fff;
+	padding-bottom: 5%;
+	display: flex;
+}
+.bee-mine-wrapper .main .about1 ul li{
+	flex: 1;
+}
+.bee-mine-wrapper .main .about1 ul li div{padding-bottom: 20%}
+.bee-mine-wrapper .main .about1 p{
+	padding-left: 1.6rem;
+}
+.bee-mine-wrapper .main .about1 .nav9{
+	background: url(../../images/035.png) no-repeat left;
+	background-size: auto 3rem;
+	background-position: 22px 10px;
+}
+.bee-mine-wrapper .user{
+	margin-top: 2rem;
+	margin-bottom: 6.5rem;
+	background:#fff;
+	height: 4.5rem;
+	line-height: 4.5rem;
+	text-align: center;float:
+}
+.bee-mine-wrapper .user p{
+	font-size:20px;
+}

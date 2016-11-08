@@ -1,0 +1,494 @@
+{
+    "product": [
+        {
+            "name": "[次日达]禧美阿拉斯加狭鳕片500g",
+            "specifics": "500g",
+            "market_price": "28",
+            "price": "28",
+            "img": "http://img01.bqstatic.com/upload/goods/201/609/1816/20160918161017_711297.jpg@355w_355h_90Q"
+        },
+        {
+            "name": "[次日达]美国进口红提",
+            "specifics": "1kg",
+            "market_price": "80",
+            "price": "56",
+            "img": "http://img01.bqstatic.com/upload/goods/201/602/2318/20160223184124_996942.jpg@355w_355h_90Q"
+        },
+        {
+            "name": "[次日达]佳沛新西兰金奇异果 16粒礼盒装",
+            "specifics": "16粒/盒",
+            "market_price": "118",
+            "price": "108",
+            "img": "http://img01.bqstatic.com/upload/goods/201/601/2109/20160121090716_775172.jpg@355w_355h_90Q"
+        },
+        {
+            "name": "[次日达]海南青皮红心木瓜",
+            "specifics": "2粒 1.2-1.6kg/盒",
+            "market_price": "24.8",
+            "price": "22.8",
+            "img": "http://img01.bqstatic.com/upload/goods/201/601/1614/20160116141751_938501.jpg@355w_355h_90Q"
+        },
+        {
+            "name": "[次日达]平谷桃10粒",
+            "specifics": "2-2.5kg 10粒/盒",
+            "market_price": "48",
+            "price": "29.9",
+            "img": "http://img01.bqstatic.com/upload/goods/201/607/2817/20160728172416_543075.jpg@355w_355h_90Q"
+        },
+        {
+            "name": "[次日达]泰国金枕头冻榴莲肉",
+            "specifics": "400g",
+            "market_price": "59.9",
+            "price": "59.9",
+            "img": "http://img01.bqstatic.com/upload/goods/201/608/2519/20160825190340_752416.jpg@355w_355h_90Q"
+        },
+        {
+            "name": "[次日达]产地直供新疆无籽露葡萄",
+            "specifics": "4.5-5斤/盒",
+            "market_price": "59.9",
+            "price": "49.9",
+            "img": "http://img01.bqstatic.com/upload/goods/201/608/1716/20160817164638_577285.jpg@355w_355h_90Q"
+        },
+        {
+            "name": "[次日达]黑糯玉米",
+            "specifics": "150-180g/根",
+            "market_price": "5.6",
+            "price": "4.9",
+            "img": "http://img01.bqstatic.com/upload/goods/201/606/0913/20160609132808_485696.jpg@355w_355h_90Q"
+        },
+        {
+            "name": "[次日达]黄糯玉米",
+            "specifics": "150-180g/根",
+            "market_price": "6.8",
+            "price": "5.5",
+            "img": "http://img01.bqstatic.com/upload/goods/201/606/0914/20160609140838_326808.jpg@355w_355h_90Q"
+        },
+        {
+            "name": "[次日达]农场直供水果黄瓜",
+            "specifics": "400g",
+            "market_price": "13.9",
+            "price": "12.9",
+            "img": "http://img01.bqstatic.com/upload/goods/201/606/2317/20160623173515_789986.jpg@355w_355h_90Q"
+        },
+        {
+            "name": "[次日达]温县铁棍山药",
+            "specifics": "350g",
+            "market_price": "11.8",
+            "price": "8.9",
+            "img": "http://img01.bqstatic.com/upload/goods/201/605/3114/20160531141115_940295.jpg@355w_355h_90Q"
+        },
+        {
+            "name": "[次日达]茶兀西柚茉莉茶整箱",
+            "specifics": "500ml*15",
+            "market_price": "75",
+            "price": "75",
+            "img": "http://img01.bqstatic.com/upload/goods/201/606/2414/20160624142708_930847.jpg@355w_355h_90Q"
+        },
+        {
+            "name": "[次日达]阿根廷红虾",
+            "specifics": "2kg(10-20只/kg）",
+            "market_price": "188",
+            "price": "149",
+            "img": "http://img01.bqstatic.com/upload/goods/201/609/1418/20160914184627_516417.jpg@355w_355h_90Q"
+        },
+        {
+            "name": "[次日达]泰国白虾60/70",
+            "specifics": "1.8kg/盒",
+            "market_price": "168",
+            "price": "118",
+            "img": "http://img01.bqstatic.com/upload/goods/201/608/1618/20160816185346_091495.jpg@355w_355h_90Q"
+        },
+        {
+            "name": "[次日达]禧美阿拉斯加狭鳕片500g",
+            "specifics": "500g",
+            "market_price": "28",
+            "price": "28",
+            "img": "http://img01.bqstatic.com/upload/goods/201/609/1816/20160918161017_711297.jpg@355w_355h_90Q"
+        },
+        {
+            "name": "[次日达]美国进口红提",
+            "specifics": "1kg",
+            "market_price": "80",
+            "price": "56",
+            "img": "http://img01.bqstatic.com/upload/goods/201/602/2318/20160223184124_996942.jpg@355w_355h_90Q"
+        },
+        {
+            "name": "[次日达]佳沛新西兰金奇异果 16粒礼盒装",
+            "specifics": "16粒/盒",
+            "market_price": "118",
+            "price": "108",
+            "img": "http://img01.bqstatic.com/upload/goods/201/601/2109/20160121090716_775172.jpg@355w_355h_90Q"
+        },
+        {
+            "name": "[次日达]海南青皮红心木瓜",
+            "specifics": "2粒 1.2-1.6kg/盒",
+            "market_price": "24.8",
+            "price": "22.8",
+            "img": "http://img01.bqstatic.com/upload/goods/201/601/1614/20160116141751_938501.jpg@355w_355h_90Q"
+        },
+        {
+            "name": "[次日达]平谷桃10粒",
+            "specifics": "2-2.5kg 10粒/盒",
+            "market_price": "48",
+            "price": "29.9",
+            "img": "http://img01.bqstatic.com/upload/goods/201/607/2817/20160728172416_543075.jpg@355w_355h_90Q"
+        },
+        {
+            "name": "[次日达]泰国金枕头冻榴莲肉",
+            "specifics": "400g",
+            "market_price": "59.9",
+            "price": "59.9",
+            "img": "http://img01.bqstatic.com/upload/goods/201/608/2519/20160825190340_752416.jpg@355w_355h_90Q"
+        },
+        {
+            "name": "[次日达]产地直供新疆无籽露葡萄",
+            "specifics": "4.5-5斤/盒",
+            "market_price": "59.9",
+            "price": "49.9",
+            "img": "http://img01.bqstatic.com/upload/goods/201/608/1716/20160817164638_577285.jpg@355w_355h_90Q"
+        },
+        {
+            "name": "[次日达]黑糯玉米",
+            "specifics": "150-180g/根",
+            "market_price": "5.6",
+            "price": "4.9",
+            "img": "http://img01.bqstatic.com/upload/goods/201/606/0913/20160609132808_485696.jpg@355w_355h_90Q"
+        },
+        {
+            "name": "[次日达]黄糯玉米",
+            "specifics": "150-180g/根",
+            "market_price": "6.8",
+            "price": "5.5",
+            "img": "http://img01.bqstatic.com/upload/goods/201/606/0914/20160609140838_326808.jpg@355w_355h_90Q"
+        },
+        {
+            "name": "[次日达]农场直供水果黄瓜",
+            "specifics": "400g",
+            "market_price": "13.9",
+            "price": "12.9",
+            "img": "http://img01.bqstatic.com/upload/goods/201/606/2317/20160623173515_789986.jpg@355w_355h_90Q"
+        },
+        {
+            "name": "[次日达]温县铁棍山药",
+            "specifics": "350g",
+            "market_price": "11.8",
+            "price": "8.9",
+            "img": "http://img01.bqstatic.com/upload/goods/201/605/3114/20160531141115_940295.jpg@355w_355h_90Q"
+        },
+        {
+            "name": "[次日达]茶兀西柚茉莉茶整箱",
+            "specifics": "500ml*15",
+            "market_price": "75",
+            "price": "75",
+            "img": "http://img01.bqstatic.com/upload/goods/201/606/2414/20160624142708_930847.jpg@355w_355h_90Q"
+        },
+        {
+            "name": "[次日达]阿根廷红虾",
+            "specifics": "2kg(10-20只/kg）",
+            "market_price": "188",
+            "price": "149",
+            "img": "http://img01.bqstatic.com/upload/goods/201/609/1418/20160914184627_516417.jpg@355w_355h_90Q"
+        },
+        {
+            "name": "[次日达]泰国白虾60/70",
+            "specifics": "1.8kg/盒",
+            "market_price": "168",
+            "price": "118",
+            "img": "http://img01.bqstatic.com/upload/goods/201/608/1618/20160816185346_091495.jpg@355w_355h_90Q"
+        },
+        {
+            "name": "[次日达]禧美阿拉斯加狭鳕片500g",
+            "specifics": "500g",
+            "market_price": "28",
+            "price": "28",
+            "img": "http://img01.bqstatic.com/upload/goods/201/609/1816/20160918161017_711297.jpg@355w_355h_90Q"
+        },
+        {
+            "name": "[次日达]美国进口红提",
+            "specifics": "1kg",
+            "market_price": "80",
+            "price": "56",
+            "img": "http://img01.bqstatic.com/upload/goods/201/602/2318/20160223184124_996942.jpg@355w_355h_90Q"
+        },
+        {
+            "name": "[次日达]佳沛新西兰金奇异果 16粒礼盒装",
+            "specifics": "16粒/盒",
+            "market_price": "118",
+            "price": "108",
+            "img": "http://img01.bqstatic.com/upload/goods/201/601/2109/20160121090716_775172.jpg@355w_355h_90Q"
+        },
+        {
+            "name": "[次日达]海南青皮红心木瓜",
+            "specifics": "2粒 1.2-1.6kg/盒",
+            "market_price": "24.8",
+            "price": "22.8",
+            "img": "http://img01.bqstatic.com/upload/goods/201/601/1614/20160116141751_938501.jpg@355w_355h_90Q"
+        },
+        {
+            "name": "[次日达]平谷桃10粒",
+            "specifics": "2-2.5kg 10粒/盒",
+            "market_price": "48",
+            "price": "29.9",
+            "img": "http://img01.bqstatic.com/upload/goods/201/607/2817/20160728172416_543075.jpg@355w_355h_90Q"
+        },
+        {
+            "name": "[次日达]泰国金枕头冻榴莲肉",
+            "specifics": "400g",
+            "market_price": "59.9",
+            "price": "59.9",
+            "img": "http://img01.bqstatic.com/upload/goods/201/608/2519/20160825190340_752416.jpg@355w_355h_90Q"
+        },
+        {
+            "name": "[次日达]产地直供新疆无籽露葡萄",
+            "specifics": "4.5-5斤/盒",
+            "market_price": "59.9",
+            "price": "49.9",
+            "img": "http://img01.bqstatic.com/upload/goods/201/608/1716/20160817164638_577285.jpg@355w_355h_90Q"
+        },
+        {
+            "name": "[次日达]黑糯玉米",
+            "specifics": "150-180g/根",
+            "market_price": "5.6",
+            "price": "4.9",
+            "img": "http://img01.bqstatic.com/upload/goods/201/606/0913/20160609132808_485696.jpg@355w_355h_90Q"
+        },
+        {
+            "name": "[次日达]黄糯玉米",
+            "specifics": "150-180g/根",
+            "market_price": "6.8",
+            "price": "5.5",
+            "img": "http://img01.bqstatic.com/upload/goods/201/606/0914/20160609140838_326808.jpg@355w_355h_90Q"
+        },
+        {
+            "name": "[次日达]农场直供水果黄瓜",
+            "specifics": "400g",
+            "market_price": "13.9",
+            "price": "12.9",
+            "img": "http://img01.bqstatic.com/upload/goods/201/606/2317/20160623173515_789986.jpg@355w_355h_90Q"
+        },
+        {
+            "name": "[次日达]温县铁棍山药",
+            "specifics": "350g",
+            "market_price": "11.8",
+            "price": "8.9",
+            "img": "http://img01.bqstatic.com/upload/goods/201/605/3114/20160531141115_940295.jpg@355w_355h_90Q"
+        },
+        {
+            "name": "[次日达]茶兀西柚茉莉茶整箱",
+            "specifics": "500ml*15",
+            "market_price": "75",
+            "price": "75",
+            "img": "http://img01.bqstatic.com/upload/goods/201/606/2414/20160624142708_930847.jpg@355w_355h_90Q"
+        },
+        {
+            "name": "[次日达]阿根廷红虾",
+            "specifics": "2kg(10-20只/kg）",
+            "market_price": "188",
+            "price": "149",
+            "img": "http://img01.bqstatic.com/upload/goods/201/609/1418/20160914184627_516417.jpg@355w_355h_90Q"
+        },
+        {
+            "name": "[次日达]泰国白虾60/70",
+            "specifics": "1.8kg/盒",
+            "market_price": "168",
+            "price": "118",
+            "img": "http://img01.bqstatic.com/upload/goods/201/608/1618/20160816185346_091495.jpg@355w_355h_90Q"
+        },
+        {
+            "name": "[次日达]禧美阿拉斯加狭鳕片500g",
+            "specifics": "500g",
+            "market_price": "28",
+            "price": "28",
+            "img": "http://img01.bqstatic.com/upload/goods/201/609/1816/20160918161017_711297.jpg@355w_355h_90Q"
+        },
+        {
+            "name": "[次日达]美国进口红提",
+            "specifics": "1kg",
+            "market_price": "80",
+            "price": "56",
+            "img": "http://img01.bqstatic.com/upload/goods/201/602/2318/20160223184124_996942.jpg@355w_355h_90Q"
+        },
+        {
+            "name": "[次日达]佳沛新西兰金奇异果 16粒礼盒装",
+            "specifics": "16粒/盒",
+            "market_price": "118",
+            "price": "108",
+            "img": "http://img01.bqstatic.com/upload/goods/201/601/2109/20160121090716_775172.jpg@355w_355h_90Q"
+        },
+        {
+            "name": "[次日达]海南青皮红心木瓜",
+            "specifics": "2粒 1.2-1.6kg/盒",
+            "market_price": "24.8",
+            "price": "22.8",
+            "img": "http://img01.bqstatic.com/upload/goods/201/601/1614/20160116141751_938501.jpg@355w_355h_90Q"
+        },
+        {
+            "name": "[次日达]平谷桃10粒",
+            "specifics": "2-2.5kg 10粒/盒",
+            "market_price": "48",
+            "price": "29.9",
+            "img": "http://img01.bqstatic.com/upload/goods/201/607/2817/20160728172416_543075.jpg@355w_355h_90Q"
+        },
+        {
+            "name": "[次日达]泰国金枕头冻榴莲肉",
+            "specifics": "400g",
+            "market_price": "59.9",
+            "price": "59.9",
+            "img": "http://img01.bqstatic.com/upload/goods/201/608/2519/20160825190340_752416.jpg@355w_355h_90Q"
+        },
+        {
+            "name": "[次日达]产地直供新疆无籽露葡萄",
+            "specifics": "4.5-5斤/盒",
+            "market_price": "59.9",
+            "price": "49.9",
+            "img": "http://img01.bqstatic.com/upload/goods/201/608/1716/20160817164638_577285.jpg@355w_355h_90Q"
+        },
+        {
+            "name": "[次日达]黑糯玉米",
+            "specifics": "150-180g/根",
+            "market_price": "5.6",
+            "price": "4.9",
+            "img": "http://img01.bqstatic.com/upload/goods/201/606/0913/20160609132808_485696.jpg@355w_355h_90Q"
+        },
+        {
+            "name": "[次日达]黄糯玉米",
+            "specifics": "150-180g/根",
+            "market_price": "6.8",
+            "price": "5.5",
+            "img": "http://img01.bqstatic.com/upload/goods/201/606/0914/20160609140838_326808.jpg@355w_355h_90Q"
+        },
+        {
+            "name": "[次日达]农场直供水果黄瓜",
+            "specifics": "400g",
+            "market_price": "13.9",
+            "price": "12.9",
+            "img": "http://img01.bqstatic.com/upload/goods/201/606/2317/20160623173515_789986.jpg@355w_355h_90Q"
+        },
+        {
+            "name": "[次日达]温县铁棍山药",
+            "specifics": "350g",
+            "market_price": "11.8",
+            "price": "8.9",
+            "img": "http://img01.bqstatic.com/upload/goods/201/605/3114/20160531141115_940295.jpg@355w_355h_90Q"
+        },
+        {
+            "name": "[次日达]茶兀西柚茉莉茶整箱",
+            "specifics": "500ml*15",
+            "market_price": "75",
+            "price": "75",
+            "img": "http://img01.bqstatic.com/upload/goods/201/606/2414/20160624142708_930847.jpg@355w_355h_90Q"
+        },
+        {
+            "name": "[次日达]阿根廷红虾",
+            "specifics": "2kg(10-20只/kg）",
+            "market_price": "188",
+            "price": "149",
+            "img": "http://img01.bqstatic.com/upload/goods/201/609/1418/20160914184627_516417.jpg@355w_355h_90Q"
+        },
+        {
+            "name": "[次日达]泰国白虾60/70",
+            "specifics": "1.8kg/盒",
+            "market_price": "168",
+            "price": "118",
+            "img": "http://img01.bqstatic.com/upload/goods/201/608/1618/20160816185346_091495.jpg@355w_355h_90Q"
+        },
+        {
+            "name": "[次日达]禧美阿拉斯加狭鳕片500g",
+            "specifics": "500g",
+            "market_price": "28",
+            "price": "28",
+            "img": "http://img01.bqstatic.com/upload/goods/201/609/1816/20160918161017_711297.jpg@355w_355h_90Q"
+        },
+        {
+            "name": "[次日达]美国进口红提",
+            "specifics": "1kg",
+            "market_price": "80",
+            "price": "56",
+            "img": "http://img01.bqstatic.com/upload/goods/201/602/2318/20160223184124_996942.jpg@355w_355h_90Q"
+        },
+        {
+            "name": "[次日达]佳沛新西兰金奇异果 16粒礼盒装",
+            "specifics": "16粒/盒",
+            "market_price": "118",
+            "price": "108",
+            "img": "http://img01.bqstatic.com/upload/goods/201/601/2109/20160121090716_775172.jpg@355w_355h_90Q"
+        },
+        {
+            "name": "[次日达]海南青皮红心木瓜",
+            "specifics": "2粒 1.2-1.6kg/盒",
+            "market_price": "24.8",
+            "price": "22.8",
+            "img": "http://img01.bqstatic.com/upload/goods/201/601/1614/20160116141751_938501.jpg@355w_355h_90Q"
+        },
+        {
+            "name": "[次日达]平谷桃10粒",
+            "specifics": "2-2.5kg 10粒/盒",
+            "market_price": "48",
+            "price": "29.9",
+            "img": "http://img01.bqstatic.com/upload/goods/201/607/2817/20160728172416_543075.jpg@355w_355h_90Q"
+        },
+        {
+            "name": "[次日达]泰国金枕头冻榴莲肉",
+            "specifics": "400g",
+            "market_price": "59.9",
+            "price": "59.9",
+            "img": "http://img01.bqstatic.com/upload/goods/201/608/2519/20160825190340_752416.jpg@355w_355h_90Q"
+        },
+        {
+            "name": "[次日达]产地直供新疆无籽露葡萄",
+            "specifics": "4.5-5斤/盒",
+            "market_price": "59.9",
+            "price": "49.9",
+            "img": "http://img01.bqstatic.com/upload/goods/201/608/1716/20160817164638_577285.jpg@355w_355h_90Q"
+        },
+        {
+            "name": "[次日达]黑糯玉米",
+            "specifics": "150-180g/根",
+            "market_price": "5.6",
+            "price": "4.9",
+            "img": "http://img01.bqstatic.com/upload/goods/201/606/0913/20160609132808_485696.jpg@355w_355h_90Q"
+        },
+        {
+            "name": "[次日达]黄糯玉米",
+            "specifics": "150-180g/根",
+            "market_price": "6.8",
+            "price": "5.5",
+            "img": "http://img01.bqstatic.com/upload/goods/201/606/0914/20160609140838_326808.jpg@355w_355h_90Q"
+        },
+        {
+            "name": "[次日达]农场直供水果黄瓜",
+            "specifics": "400g",
+            "market_price": "13.9",
+            "price": "12.9",
+            "img": "http://img01.bqstatic.com/upload/goods/201/606/2317/20160623173515_789986.jpg@355w_355h_90Q"
+        },
+        {
+            "name": "[次日达]温县铁棍山药",
+            "specifics": "350g",
+            "market_price": "11.8",
+            "price": "8.9",
+            "img": "http://img01.bqstatic.com/upload/goods/201/605/3114/20160531141115_940295.jpg@355w_355h_90Q"
+        },
+        {
+            "name": "[次日达]茶兀西柚茉莉茶整箱",
+            "specifics": "500ml*15",
+            "market_price": "75",
+            "price": "75",
+            "img": "http://img01.bqstatic.com/upload/goods/201/606/2414/20160624142708_930847.jpg@355w_355h_90Q"
+        },
+        {
+            "name": "[次日达]阿根廷红虾",
+            "specifics": "2kg(10-20只/kg）",
+            "market_price": "188",
+            "price": "149",
+            "img": "http://img01.bqstatic.com/upload/goods/201/609/1418/20160914184627_516417.jpg@355w_355h_90Q"
+        },
+        {
+            "name": "[次日达]泰国白虾60/70",
+            "specifics": "1.8kg/盒",
+            "market_price": "168",
+            "price": "118",
+            "img": "http://img01.bqstatic.com/upload/goods/201/608/1618/20160816185346_091495.jpg@355w_355h_90Q"
+        }
+    ]
+}

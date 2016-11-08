@@ -1,0 +1,92 @@
+{
+    "data": {
+        "slide": [
+            {
+                "activity": {
+                    "name": "水果权益日",
+                    "img": "http://img01.bqstatic.com//upload/activity/2016091915021646.jpg@90Q"
+                }
+            },
+            {
+                "activity": {
+                    "name": "大闸蟹开湖国庆",
+                    "img": "http://img01.bqstatic.com//upload/activity/2016092219211394.jpg@90Q"
+                }
+            },
+            {
+                "activity": {
+                    "name": "九月大促",
+                    "img": "http://img01.bqstatic.com//upload/activity/2016091810330511.jpg@90Q"
+                }
+            },
+            {
+                "activity": {
+                    "name": "新鲜预订-零食满60减15",
+                    "img": "http://img01.bqstatic.com//upload/activity/2016092317171726.jpg@90Q"
+                }
+            },
+            {
+                "activity": {
+                    "name": "怀来马奶葡萄专题",
+                    "img": "http://img01.bqstatic.com//upload/activity/2016091015355012.jpg@90Q"
+                }
+            },
+            {
+                "activity": {
+                    "name": "新鲜预订－零度果坊鲜榨果汁",
+                    "img": "http://img01.bqstatic.com//upload/activity/2016092611533782.jpg@90Q"
+                }
+            }
+        ],
+        "menu": [
+            {
+                "activity": {
+                    "name": "抽奖",
+                    "img": "http://img01.bqstatic.com//upload/activity/2016081918454835.png"
+                }
+            },
+            {
+                "activity": {
+                    "name": "疯狂秒杀",
+                    "img": "http://img01.bqstatic.com//upload/activity/2016092318431928.jpg"
+                }
+            },
+            {
+                "activity": {
+                    "name": "鲜货直供",
+                    "img": "http://img01.bqstatic.com//upload/activity/2016090709430633.png"
+                }
+            },
+            {
+                "activity": {
+                    "name": "大闸蟹",
+                    "img": "http://img01.bqstatic.com//upload/activity/2016092219201794.png"
+                }
+            },
+            {
+                "activity": {
+                    "name": "水果",
+                    "img": "http://img01.bqstatic.com//upload/activity/2016081918472555.png"
+                }
+            },
+            {
+                "activity": {
+                    "name": "乳品",
+                    "img": "http://img01.bqstatic.com//upload/activity/2016081918472974.png"
+                }
+            },
+            {
+                "activity": {
+                    "name": "卤味",
+                    "img": "http://img01.bqstatic.com//upload/activity/201608191853564.png"
+                }
+            },
+            {
+                "activity": {
+                    "name": "零食",
+                    "img": "http://img01.bqstatic.com//upload/activity/2016081918473439.png"
+                }
+            }
+        ]
+    }
+}

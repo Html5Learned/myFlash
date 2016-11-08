@@ -1,0 +1,21 @@
+<!-- 新鲜预订 -->
+<script type="text/html" id="reserve-list">
+	<%for(var n =0;n<product.length;n++){%>
+		<li id="<%=md5(JSON.stringify(product[n]))%>">
+			<div class="img" style="background: url(<%=product[n].img%>) no-repeat center;float: left;width: 15rem;height: 10rem;background-size: auto 10rem;"></div>
+			<div class="word">
+				<p><%=product[n].name%></p>
+				<span><%=product[n].specifics%></span>
+				<p>￥<span><%=product[n].price%></span>￥<span><%=product[n].market_price%></span></p>
+				<div class="store-icon">
+					<i class="list-icon1"></i>
+					<span>0</span>
+					<i class="list-icon"></i>
+				</div>
+			</div>
+			<textarea style="display: none;"> 
+				<%=JSON.stringify(product[n])%>			
+			</textarea>
+		</li>
+	<%}%>
+</script>

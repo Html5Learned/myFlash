@@ -1,0 +1,6 @@
+@charset "UTF-8";
+/*全局样式*/
+*{margin: 0; padding: 0;box-sizing:border-box;font-size: 12px;}
+a{text-decoration: none;color: #000;}
+ol,ul{list-style: none;}
+img{border: none;display: block;}

@@ -1,0 +1,145 @@
+/*预定*/
+html{background: #eaeaea;}
+.bee-order-wrapper .order-wrapper{
+	height: 4.5rem;
+	line-height: 4.5rem;
+	text-align: center;
+	background: #f9fafd;
+	font-weight: 700;
+	font-size: 17px;
+}
+.bee-order-wrapper .order-nav{
+	background: #fff;
+}
+.bee-order-wrapper .order-nav .nav1 ul:first-of-type{
+	margin-top: 1rem;
+	border-top: 1px solid #a2a2a2;
+	display: flex;
+	justify-content: space-around;
+	border-bottom: 1px solid #efefef;
+}
+.bee-order-wrapper .order-nav .nav1 ul li{
+	background: #fff;
+	display: inline-block;
+	line-height: 4rem;
+	font-size: 16px;
+	font-weight: bolder;
+	color:#898989;
+	border-bottom:  1px solid #efefef;
+}
+.bee-order-wrapper .order-nav .nav1 ul li:hover{
+	color: #000;
+	border-bottom: 1px solid #000;
+}
+.bee-order-wrapper .order-nav .nav1 ul:last-of-type{
+	border-bottom: 1px solid #a2a2a2;
+	display: flex;
+	justify-content: space-around;
+}
+.bee-order-wrapper .main{
+	height: 30rem;
+}
+
+.bee-order-wrapper .main h2{
+	margin-top: 1rem;
+	border-top: 1px solid #a2a2a2; 
+	border-bottom: 1px solid #a2a2a2; 
+	width: 100%;
+    height: 4rem;
+    line-height: 3rem;
+    background: #fff;
+    padding-top: 5px;
+    color: #898989;
+    font-size: 1.5rem;
+}
+.bee-order-wrapper .main h2 i{
+	background: #2aaef8;
+    width: .7rem;
+    vertical-align: middle;
+    height: 1.5rem;
+    display: inline-block;
+    margin: 0px 6px;
+}
+.bee-order-wrapper .main .list{
+	overflow-y: auto;
+	height: 30rem;
+}
+.bee-order-wrapper .main .list li{
+	overflow: hidden;
+	background: #fff;
+	border-bottom: 1px solid #898989;
+}
+.bee-order-wrapper .main .list li .word p:first-of-type{
+	margin-top: 1rem;
+	font-size: 17px;
+	color: #898989;
+}
+.bee-order-wrapper .main .list li .word>span{
+	margin: .5rem 0;
+	display: block;
+	font-size: 16px;
+	color: #898989;
+}
+.bee-order-wrapper .main .list li .word p:last-of-type{
+	margin-top: 2.7rem;
+	color: red;
+}
+.bee-order-wrapper .main .list li .word p:last-of-type span:first-of-type{
+	font-size: 18px;
+	font-weight: bolder;
+}
+.bee-order-wrapper .main .list li .word p:last-of-type span:last-of-type{
+	font-size: 18px;
+	font-weight: bolder;
+	color: #999999;
+	text-decoration: line-through;
+}
+
+.bee-order-wrapper .main .list li .word{
+	position: relative;
+}
+.bee-order-wrapper .main .list li .word .store-icon{
+	display: inline-block;
+	/*border: 1px solid red;*/
+	width: 8rem;
+	height: 3rem;
+	position: absolute;
+	right: 0;
+	bottom: 0;
+}
+.bee-order-wrapper .main .list li .word .store-icon .list-icon{
+    background: url(../../images/050.png) no-repeat;
+    background-position: -28px 0px;
+    background-size: 200% 100%;
+    background-color: #ff7a4b;
+    border: 1px solid #9d9d9d;
+    border-radius: 50%;
+    width: 2.5rem;
+    height: 2.5rem;
+    position: absolute;
+    top: 5%;
+    right: 5%;
+    z-index: 5;
+}
+.bee-order-wrapper .main .list li .word .store-icon .list-icon1{
+    background: url(../../images/050.png) no-repeat;
+    background-position: 0px 0px;
+    background-size: 200% 100%;
+    background-color: #ff7a4b;
+    border: 1px solid #9d9d9d;
+    border-radius: 50%;
+    width: 2.5rem;
+    height: 2.5rem;
+    position: absolute;
+    top: 5%;
+    right: 65%;
+    z-index: 5;
+    display: none;
+}
+.bee-order-wrapper .main .list li .word .store-icon>span{
+	position: absolute;
+	left: 39px;
+	font-size: 2rem;
+	line-height: 2.5rem;
+	display: none;
+}

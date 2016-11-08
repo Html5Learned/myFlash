@@ -1,0 +1,197 @@
+@charset"UTF-8";
+body{background: #efefef;}
+header{
+	height: 4.5rem;
+	line-height: 4.5rem;
+	text-align: center;
+	background: #f9fafd;
+	display: flex;
+	
+}
+header span:first-of-type{
+	flex: 1;
+}
+header span:nth-of-type(2){
+	font-weight: 700;
+	font-size: 17px;
+	flex: 4;
+}
+header span:last-of-type{
+	flex: 1;
+}
+
+.ring-wrap{
+	background: #fff;
+	content: '';
+    border-color: #e0e0e0;
+    position: relative;
+    padding: 1rem 0;
+    border: 1px solid #fff;
+}
+.ring-wrap>p{
+	color: #999;
+	position: absolute;
+    width: 100%;
+    text-align: center;
+    top: 50%;
+    transform: translateY(-50%);
+    line-height: 1.2;
+}
+.ring-wrap>p span{
+	color: #e64f1a;
+	font-size: 2rem;
+    margin-top: .5rem;
+}
+.ring-wrap-box{
+	transform: rotate(0deg);
+    width: 164px;
+    height: 164px;
+    position: relative;
+    margin: 0 auto;
+    overflow: hidden;
+}
+.ring-wrap-box>div{
+	position: absolute;
+    border-radius: 50%;
+    border-style: solid;
+    background-size: auto 100%;
+}
+.ring-wrap-box .circle2{
+	width: 160px;
+    height: 160px;
+    top: 2px;
+    left: 2px;
+    border-width: 21px;
+    clip: rect(0px 80px 160px 0px);
+    transform: rotate(-180deg);
+    border-color: #fff;
+    border-color: #ef592a;
+}  
+.ring-wrap-box .circle4{
+	width: 160px;
+    height: 160px;
+    top: 2px;
+    left: 2px;
+    border-width: 21px;
+    clip: rect(0px 160px 160px 80px);
+    display: block;
+    transform: rotate(-180deg);
+    border-color: #ef592a;
+}	   
+.inner{
+	border-width: 9px;
+	width: 100%;
+    height: 100%;
+    border-color: #e13600;
+    position: absolute;
+    border-radius: 50%;
+    border-style: solid;
+    background-size: auto 100%;
+}  
+
+.circle2{
+	animation: circle_left 3s linear /*infinite*/;
+}  
+.circle4{
+	animation: circle_right 3s linear /*infinite*/;
+}
+/*先动*/
+@keyframes circle_right{
+	0%{
+		transform: rotate(180deg);
+	}
+	50%,100%{
+		transform: rotate(360deg);
+	}
+}
+@keyframes circle_left{
+	0%,50%{
+		transform: rotate(180deg);
+	}
+	100%{
+		transform: rotate(360deg);
+	}
+}
+/******动画部分************/
+
+
+
+
+.img1{
+	background: url(../images/057.png) no-repeat center;
+	background-size:auto 3rem;
+}
+.list {
+	display: flex;
+	background: #fff;
+}
+.list li{
+	padding: 5% 0;
+	text-align: center;
+	border: 1px solid #efefef;
+	flex: 1;
+	color: #999;
+}
+.list li div{
+	margin: auto;
+	width: 3rem;
+	height: 4rem;
+}
+.list li .list1{
+	background: url(../images/039.png) no-repeat center;
+	background-size: contain;
+}
+.list li .list2{
+	background: url(../images/040.png) no-repeat center;
+	background-size: contain;
+}
+.list li .list3{
+	background: url(../images/041.png) no-repeat center;
+	background-size: contain;
+}
+
+.nav{
+	margin-top: 1rem;
+    background: #fff;
+    display: flex;
+    justify-content: space-around;
+    flex-wrap: wrap;
+}
+.nav li{
+	width: 50%;
+	border: .1rem solid #efefef;
+	flex: 1;
+    margin: auto;
+}
+.nav li p{
+	margin: .6rem 2rem;
+}
+.nav li p:last-of-type{
+	color: red;
+}
+.nav li div{
+	margin: auto;
+	width: 15rem;
+	height: 7rem;
+}
+.nav1{
+	background: url(../images/030.jpg) no-repeat center;
+	background-size: contain;
+}
+.nav2{
+	background: url(../images/031.jpg) no-repeat center;
+	background-size: contain;
+}
+
+.nav3{
+	background: url(../images/032.jpg) no-repeat center;
+	background-size: contain;
+}
+.nav4{
+	background: url(../images/033.jpg) no-repeat center;
+	background-size: contain;
+}
+
+
+
+
